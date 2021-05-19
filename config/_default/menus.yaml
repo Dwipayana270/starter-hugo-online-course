@@ -11,11 +11,14 @@ main:
     url: '/course'
     weight: 20
     identifier: courses
-  - name: Data science 1
+  - name: Pengenalan Coding
     url: '/course/example/'
     weight: 10
     parent: courses
-  - name: Data science 2
+  - name: Tutorial Scratch
+    url: '/course/example/'
+    weight: 10
+  - name: Aktifitas Coding Transformasi Geometri
     url: '/course/example/'
     weight: 10
     parent: courses
