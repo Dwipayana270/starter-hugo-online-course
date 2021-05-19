@@ -18,6 +18,7 @@ main:
   - name: Tutorial Scratch
     url: '/course/example/'
     weight: 10
+    parent: courses
   - name: Aktifitas Coding Transformasi Geometri
     url: '/course/example/'
     weight: 10
