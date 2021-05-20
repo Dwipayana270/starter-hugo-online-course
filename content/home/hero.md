@@ -3,7 +3,7 @@ widget: hero
 headless: true
 weight: 10
 title: Belajar Transformasi Geometri dengan Scratch
-hero_media: student.svg
+hero_media: tes.svg
 design:
   background:
     gradient_angle: 0
