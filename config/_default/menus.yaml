@@ -4,25 +4,22 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
+  - name: Beranda
     url: '/'
     weight: 10
-  - name: Courses
+  - name: Materi
     url: '/course'
     weight: 20
     identifier: courses
-  - name: Pengenalan Coding
-    url: '/course/example/'
+  - name: 1. Pengenalan Coding
+    url: '/course/menjadi-coder/'
     weight: 10
     parent: courses
-  - name: Tutorial Scratch
-    url: '/course/example/'
-    weight: 10
+  - name: 2. Tutorial Scratch
+    url: '/course/pengenalan-scratch/'
+    weight: 11
     parent: courses
-  - name: Aktifitas Coding Transformasi Geometri
-    url: '/course/example/'
-    weight: 10
+  - name: 3. Aktifitas Coding Transformasi Geometri
+    url: '/course/transformasi-geometri/'
+    weight: 12
     parent: courses
-  - name: Contact
-    url: '/contact'
-    weight: 60
