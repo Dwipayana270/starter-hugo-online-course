@@ -24,7 +24,3 @@ advanced:
   css_class: fullscreen
 ---
 <br>
-
-Published with the [Wowchemy Website Builder](https://wowchemy.com/) for Hugo.
-
-Introduce your courses here.

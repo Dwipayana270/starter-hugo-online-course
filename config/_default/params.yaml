@@ -9,6 +9,7 @@ theme: 'Coffee'
 day_night: true
 font: 'Mr Robot'
 font_size: L
+noTimes: true
 
 # SEO
 
@@ -41,8 +42,8 @@ main_menu:
 
 # Localization
 
-date_format: 'Jan 2, 2006'
-time_format: '3:04 PM'
+date_format: ""
+time_format: ""
 address_format: en-us
 
 # Site features
@@ -67,16 +68,15 @@ show_related:
   project: true
   publication: true
   event: true
-reading_time: true
+reading_time: false
 section_pager: false
-docs_section_pager: true
+docs_section_pager: false
 sharing: true
 
 copyright_license:
   enable: true
   notice: >-
-    Except as otherwise noted, this work is licensed under {license}, and code
-    samples are licensed under the MIT License.
+    Lisensi di bawah {license}, website dikembangkan oleh Dwipayana.
 
 abstract_length: 135
 plugins_js: []
@@ -100,7 +100,7 @@ comments:
   commento:
     url: ''
 search:
-  provider: wowchemy
+  provider:
   algolia:
     app_id: ''
     api_key: ''

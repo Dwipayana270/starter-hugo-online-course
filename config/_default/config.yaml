@@ -7,14 +7,7 @@ title: Belajar Scratch # Website name
 baseurl: '' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
-copyright_license:
-  enable: false
-  allow_derivatives: false
-  share_alike: true
-  allow_commercial: false
-  notice: >-
-    Except as otherwise noted, this work is licensed under {license}, and code
-    samples are licensed under the MIT License.
+
 
 ############################
 ## LANGUAGE
@@ -24,7 +17,8 @@ defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
-
+enableGitInfo: false
+noTimes: true
 ############################
 ## MODULES
 ############################
