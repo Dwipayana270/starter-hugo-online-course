@@ -13,7 +13,7 @@ copyright: '' # Footer text, e.g. '© {year} Me'
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+defaultContentLanguage: id
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true

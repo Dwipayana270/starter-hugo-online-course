@@ -1,9 +1,10 @@
 ---
-title: 📊 Learn Data Science
+title: 📊 Learn Data Science 3
 linkTitle: Data Science
 summary: An example of using Wowchemy's Book layout for publishing online courses.
-date: '2021-01-24'
+date: 'Mei'
 type: book
+weight: 7
 tags:
   - Aktifitas
 ---
