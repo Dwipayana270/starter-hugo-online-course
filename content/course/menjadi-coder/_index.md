@@ -1,41 +1,20 @@
 ---
-title: 📊 Learn Data Science 1
-linkTitle: Data Science
-summary: An example of using Wowchemy's Book layout for publishing online courses.
+title: "⭐Menjadi Coder yang Hebat"
+linkTitle: Coder
+summary: Perjalanan untuk menjadi coder yang hebat.
 type: book
 weight: 5
 ---
 
-{{< figure src="featured.jpg" >}}
 
-{{< toc hide_on="xl" >}}
 
-## What you will learn
+## Menjadi Coder yang Hebat
 
-- Fundamental {{<hl>}}Python programming skills{{</hl>}}
-- {{<hl>}}Statistical concepts{{</hl>}} and how to apply them in practice
-- Gain experience with the {{<hl>}}Scikit{{</hl>}}, including data visualization with {{<hl>}}Plotly{{</hl>}} and data wrangling with {{<hl>}}Pandas{{</hl>}}
+Bagian ini akan menjawab pertanyaan berikut.
+1. Siapa yang disebut coder?
+2. Apa itu coding?
+3. Bagaimana cara berpikir seperti coder?
 
-## Program overview
 
-The demand for skilled data science practitioners is rapidly growing. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi.
 
-## Courses in this program
-
-{{< list_children >}}
-
-## Meet your instructor
-
-{{< mention "admin" >}}
-
-## FAQs
-
-{{< spoiler text="Are there prerequisites?" >}}
-There are no prerequisites for the first course.
-{{< /spoiler >}}
-
-{{< spoiler text="How often do the courses run?" >}}
-Continuously, at your own pace.
-{{< /spoiler >}}
-
-{{< cta cta_text="Begin the course" cta_link="stats" >}}
+{{< cta cta_text="Mulai" cta_link="coder" >}}
