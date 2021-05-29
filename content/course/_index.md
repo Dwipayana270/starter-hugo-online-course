@@ -1,5 +1,5 @@
 ---
-title: 📚 Courses
+title: 📚 Transformasi Geometri pada Scratch
 type: page
 
 header:
@@ -7,4 +7,4 @@ header:
   image: ""
 ---
 
-Explore our courses below and expand your knowledge!
+Ayo menjadi coder dan taklukkan transformasi geometri!
