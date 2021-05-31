@@ -25,3 +25,9 @@ Code area adalah tempat kosong yang siap untuk diisi susunan block. Block dapat 
 ![block palette](images/block-palette.png)
 
 Block Palette berisi berbagai block yang sudah dikelompokkan sesuai fungsinya. Kelompok-kelompok block pada Scratch antara lain: Motion, Looks, Sound, Events, Controls, Sensing, Operators, Variables, My Blocks.
+
+**Sebelumnya:**
+<a href="../1-apa-itu-scratch">Apa itu Scratch?</a>
+
+**Selanjutnya:**
+<a href="../3-background-sprite">Background dan Sprite</a>

@@ -19,7 +19,7 @@ main:
     url: '/course/pengenalan-scratch/'
     weight: 11
     parent: courses
-  - name: 3. Aktifitas Coding Transformasi Geometri
+  - name: 3. Do It Yourself!
     url: '/course/transformasi-geometri/'
     weight: 12
     parent: courses

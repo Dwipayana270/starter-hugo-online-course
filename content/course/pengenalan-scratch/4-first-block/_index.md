@@ -19,3 +19,6 @@ Jalankan programnya dengan menekan tombol "bendera hijau"
 ![contoh keluaran](images/output-example.gif)
 
 Kalian dapat bereksplorasi secara mandiri dalam menyusun code pada scratch. Selamat mencoba!
+
+**Sebelumnya:**
+<a href="../3-background-sprite">Background dan Sprite</a>

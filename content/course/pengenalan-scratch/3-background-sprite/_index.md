@@ -21,3 +21,9 @@ Jika kita ingin menambahkan sprite baru, klik ikon kucing pada Sprite Pane.
 ## Menambahkan Background
 Selain menambahkan sprite, kita juga dapat menambahkan background. Background dapat ditambahkan pada sprite pane sesuai.
 ![menambahkan Background](images/adding-background.gif)
+
+**Sebelumnya:**
+<a href="../2-lingkungan-kerja">Lingkungan Kerja</a>
+
+**Selanjutnya:**
+<a href="../4-first-block">Menyusun Block Pertamamu!</a>
