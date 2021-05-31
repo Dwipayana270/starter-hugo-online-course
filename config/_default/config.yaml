@@ -58,7 +58,7 @@ markup:
   tableOfContents:
     startLevel: 2
     endLevel: 3
-imaging:
+# imaging:
   # resampleFilter: lanczos
   # quality: 75
   # anchor: smart
