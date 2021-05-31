@@ -1,8 +1,8 @@
 ---
 title: 🔎Pengenalan Scratch
-summary: Perjalanan untuk menjadi coder yang hebat.
+summary: Berkenalan dan belajar aplikasi Scratch.
 type: book
-weight: 5
+weight: 6
 ---
 
 
