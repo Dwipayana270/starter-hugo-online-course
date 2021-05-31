@@ -6,10 +6,6 @@ type: book
 weight: 5
 ---
 
-
-
-## Menjadi Coder yang Hebat
-
 Bagian ini akan menjawab pertanyaan berikut.
 1. Siapa yang disebut coder?
 2. Apa itu coding?
