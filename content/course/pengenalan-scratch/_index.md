@@ -5,7 +5,7 @@ type: book
 weight: 7
 toc: true
 ---
-{{< toc hide_on="xl" >}}
+{{< toc >}}
 
 Selamat, kamu sudah berkenalan dengan dunia coding dan belajar Scratch. Sekarang saatnya kamu membuat program di Scratch. Di laman ini, kamu akan ditantang untuk membuat program yang berkaitan dengan transformasi geometri di Scratch.
 
