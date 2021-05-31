@@ -4,6 +4,7 @@ summary: Berkenalan dengan aplikasi Scratch untuk coding.
 type: book
 weight: 5
 ---
+{{< figure src="images/deleting-sprite.gif" >}}
 Pada sesi ini kalian akan mempelajari tentang
 1. Apa itu Scratch?
 2. Lingkungan Kerja Scratch

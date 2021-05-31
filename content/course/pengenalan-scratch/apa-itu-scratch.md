@@ -4,7 +4,8 @@ type: book
 weight: 20
 ---
 
-{{< figure src="images/scratch-logo.png" >}}
+{{< figure src="deleting-sprite.gif" >}}
+![deleting sprite](deleting-sprite.gif)
 
 Scratch adalah aplikasi untuk membuat aplikasi. Scratch merupakan aplikasi yang mudah dipelajari karena block-based.
 
