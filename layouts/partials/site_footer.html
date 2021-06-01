@@ -1,8 +1,12 @@
-</br>
-</br>
+
 <style>
 .container {
   position: relative;
+  padding-top: 10px;
+}
+
+.flex-box {
+  display: flex;
 }
 
 .bottomright {
@@ -11,9 +15,46 @@
   right: 16px;
   font-size: 0.7em;
 }
+
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 7px 8px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button2 {
+  background-color: #008CBA; /* Blue */
+  border: none;
+  color: white;
+  padding: 7px 8px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
 </style>
 
 <div class="container">
-  <div class="bottomright">
-    <p>Dikembangkan oleh: I Made Dwipayana</p></div>
+  <div class="flex-box">
+    <form action="/course" method="get" >
+        <button class="button" type="submit">Materi</button>
+      </form>
+      <form action="/" method="get" >
+        <button class="button2" type="submit">Beranda</button>
+      </form>
+    </div>
+      </br>
+      </br>
+    <div class="bottomright">
+      <p>Dikembangkan oleh: I Made Dwipayana</p>
+    </div>
 </div>
