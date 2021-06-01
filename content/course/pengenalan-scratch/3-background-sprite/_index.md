@@ -3,6 +3,8 @@ title: Background dan Sprite
 weight: 20
 type: book
 ---
+## Apa itu Sprite?
+Sprite adalah suatu objek (gambar atau kumpulan gambar) yang tertampil di stage untuk melakukan hal-hal yang sesuai dengan kehendak kita di dalam suatu program. Sprite dapat dibuat sendiri atau dipilih  di library sprite. Sprite dapat dihapus, digandakan, diunduh, dan dimunculkan/disembunyikan.
 
 ## Sprite Awal
 Sprite awal saat Scratch pertama kali dibuka adalah karakter kucing.

@@ -12,3 +12,15 @@ Bagaimana berpikir seperti coder yang hebat?
 - Coder tidak pernah menyerah, kesalahan akan membantu coder untuk menyempurnakan rencana berikutnya!
 
 Selanjutnya, kalian akan belajar coding pada aplikasi Scratch dan menerapkan pengetahuan transformasi geometri pada Scratch layaknya seperti coder!
+
+
+
+
+<div class="container-inside">
+<div>
+<form action="/course/pengenalan-scratch/1-apa-itu-scratch" method="get" >
+    <button class="button-inside" type="submit">Selanjutnya</button>
+  </form>
+</div>
+
+</div>

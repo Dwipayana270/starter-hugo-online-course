@@ -12,4 +12,10 @@ Bagian ini akan menjawab pertanyaan berikut.
 
 
 
-{{< cta cta_text="Mulai" cta_link="coder" >}}
+<div class="container-inside">
+<div>
+<form action="coder" method="get" >
+    <button class="button-inside" type="submit">Mulai</button>
+  </form>
+</div>
+</div>
