@@ -20,3 +20,6 @@ main:
     url: '/course/transformasi-geometri/'
     weight: 12
     parent: courses
+  - name: Tentang
+    url: '/course/terimakasih'
+    weight: 21
