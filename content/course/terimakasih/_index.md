@@ -16,7 +16,3 @@ Website ini merupakan website yang berisi pengayaan coding pada materi transform
 
 ## Ucapan terimakasih
 Pengembang mengucapkan terimakasih kepada pembimbing I (Dr. Gede Suweken, M.Sc.) dan Pembimbing II (Dr. I Nyoman Sukajaya, M.T.) atas bimbingannya sehingga website pengayaan coding ini rampung dengan baik dan tepat waktu.
-
-<div class="container-iframe">
-<iframe class="responsive-iframe" src="https://scratch.mit.edu/projects/542176382/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
-</div>

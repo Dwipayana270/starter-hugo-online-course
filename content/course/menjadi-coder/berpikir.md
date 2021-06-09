@@ -13,6 +13,10 @@ Bagaimana berpikir seperti coder yang hebat?
 
 Selanjutnya, kalian akan belajar coding pada aplikasi Scratch dan menerapkan pengetahuan transformasi geometri pada Scratch layaknya seperti coder!
 
+<div class="container-iframe">
+<iframe class="responsive-iframe" src="https://scratch.mit.edu/projects/542176382/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</div>
+
 <div class="container-inside">
 <div>
 <form action="/course/pengenalan-scratch/1-apa-itu-scratch" method="get" >
