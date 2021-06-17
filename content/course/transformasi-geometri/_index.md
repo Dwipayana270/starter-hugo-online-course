@@ -2,7 +2,7 @@
 title: "💪Do It Yourself!"
 summary: Membuat program transformasi geometri di Scratch.
 type: book
-weight: 7
+weight: 8
 toc: true
 ---
 {{< toc >}}

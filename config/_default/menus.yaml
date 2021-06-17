@@ -16,12 +16,12 @@ main:
     url: '/course/pengenalan-scratch/'
     weight: 11
     parent: courses
-  - name: 3. Do It Yourself!
-    url: '/course/transformasi-geometri/'
+  - name: 3. Konsep Dasar Coding
+    url: '/course/konsep_dasar_coding/'
     weight: 12
     parent: courses
-  - name: 4. Konsep Dasar Codind
-    url: '/course/konsep_dasar_coding/'
+  - name: 4. Do It Yourself!
+    url: '/course/transformasi-geometri/'
     weight: 13
     parent: courses
   - name: Tentang

@@ -32,4 +32,12 @@ Misalkan kita mempunyai program "Halo Semuanya". Program ini adalah program yang
 
 Tentunya kita tidak mungkin membuat salam satu-persatu, dengan menggunakan konsep loops maka tugas kita akan menjadi lebih mudah!
 
-"Untuk setiap siswa di kelas, katakan "Halo [nama siswa]". "
+"Untuk setiap siswa di kelas, katakan "Halo [nama siswa]"."
+
+Kamu bisa langsung belajar menerapkan konsep-konsep di atas di kegiatan selanjutnya!
+
+**Sebelumnya:**
+<a href="../alien">Alien Berkunjung ke Bumi</a>
+
+**Selanjutnya:**
+<a href="../game-kupukupu">Membuat Game "Tangkap Aku!"</a>

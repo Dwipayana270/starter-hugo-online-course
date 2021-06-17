@@ -4,7 +4,7 @@ weight: 30
 type: book
 ---
 
-Kita akan membuat game "Tangkap Aku!". Pada game ini akan ada kupu-kupu yang terbang secara acak, jika kita klik kupu-kupu tersebut kama skor bertambah satu. Waktu game ini yaitu 10 detik.
+Kita akan membuat game "Tangkap Aku!". Pada game ini akan ada kupu-kupu yang terbang secara acak, jika kita klik kupu-kupu tersebut maka skor bertambah satu. Waktu game ini yaitu 10 detik.
 
 <div class="container-iframe">
 <iframe class="responsive-iframe" src="https://scratch.mit.edu/projects/542176382/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
@@ -14,6 +14,7 @@ Kita akan membuat game "Tangkap Aku!". Pada game ini akan ada kupu-kupu yang ter
 
 - Penggunaan variabel untuk membuat skor dan timer
 - Penggunaan konsep loop dan random untuk membuat kupu-kupu terbang secara acak
+- Penggunaan konsep conditionals
 
 ## Menyiapkan Sprite dan background
 
@@ -62,8 +63,8 @@ Tantangan dalam game ini yaitu adanya timer sepuluh detik. Terlebih dahulu kita 
 
 1. Ketika bendera hijau diklik
 2. Atur variabel timer menjadi sepuluh
-3. tunggu satu detik, setelah itu variabel timer berkurang satu, ulangi instruksi ini sampai variabel timer sama dengan nol
-4. stop semuanya
+3. Tunggu satu detik, setelah itu variabel timer berkurang satu, ulangi instruksi ini sampai variabel timer sama dengan nol
+4. Stop semuanya
 
 Susunan block-nya sebagai berikut.
 
@@ -74,3 +75,16 @@ Susunan block-nya sebagai berikut.
 Kita akan membuat kupu-kupu berkata "Klik aku!" saat timer belum nol, jika timer sudah nol maka kupu-kupu berkata "Klik bendera hijau untuk bermain ulang". Susunan instruksi ini menggunakan konsep conditional. Susunan block-nya sebagai berikut.
 
 ![](images/4.svg)
+
+<div class="container-inside">
+<div>
+<form action="/course/transformasi-geometri" method="get" >
+    <button class="button-inside" type="submit">Selanjutnya</button>
+  </form>
+</div>
+</div>
+</br>
+</br>
+
+**Sebelumnya:**
+<a href="../konsep">Konsep-konsep Dasar Coding</a>

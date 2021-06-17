@@ -22,7 +22,7 @@ Kalian dapat bereksplorasi secara mandiri dalam menyusun code pada scratch. Sela
 
 <div class="container-inside">
 <div>
-<form action="/course/transformasi-geometri" method="get" >
+<form action="/course/konsep_dasar_coding" method="get" >
     <button class="button-inside" type="submit">Selanjutnya</button>
   </form>
 </div>
