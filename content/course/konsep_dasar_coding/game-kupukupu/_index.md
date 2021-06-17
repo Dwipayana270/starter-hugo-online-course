@@ -9,6 +9,7 @@ Kita akan membuat game "Tangkap Aku!". Pada game ini akan ada kupu-kupu yang ter
 <div class="container-iframe">
 <iframe class="responsive-iframe" src="https://scratch.mit.edu/projects/542176382/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
+*Tekan bendera hijau untuk memulai permainan*
 
 ## Apa yang akan kamu pelajari?
 
