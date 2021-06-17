@@ -20,6 +20,10 @@ main:
     url: '/course/transformasi-geometri/'
     weight: 12
     parent: courses
+  - name: 4. Konsep Dasar Codind
+    url: '/course/konsep_dasar_coding/'
+    weight: 13
+    parent: courses
   - name: Tentang
     url: '/course/terimakasih'
     weight: 21
